@@ -22,5 +22,6 @@ function iLoveTheBeatles(n){
  do {
    myArray.push("I love the Beatles!")
  } while (i < n)
+  n++
   return myArray
 }
